@@ -1,0 +1,44 @@
+h1{
+    color: #2a9d8f;
+    background-color: #e9c46a;
+    text-align: center;
+}
+p{
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman", Arial;
+    font-size: 20px;
+    font-weight: bold ;
+
+    /* اطار ال border */
+    border-style:solid;
+    border-width: thick;
+    border-color:brown green blue pink ;
+    /* زويا الاطار */
+    border-radius: 15px;
+}
+a {
+    
+    color: purple;
+}
+/* في حالة التمرير عليها */
+a:hover {
+    color: blue;
+}
+div {
+    background-color: #2a9d8f;
+    width: 400px;
+    border: 15px solid pink;
+    /* المساحة الداخلية بين الاطار والعنصر */
+    padding: 50px;
+    /* المساحة الخرجية بعد اطار العنصر */
+    margin: 10px 30px 40px 60px;
+    /* مساحة لجهة واحدة فقط */
+    margin-top: 5%;
+}
+.ex2{
+    background-color: #e9c46a;
+    width: 20%;
+    height: 20%;
+}
+  

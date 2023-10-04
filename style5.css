@@ -1,0 +1,8 @@
+nav{
+    background-color:rgb(150, 82, 0);
+color: white;
+font-weight: bold;
+/* حتفضل موجودة في نفس المكان مهما تنزل */
+position: sticky;
+top: 0px;
+}

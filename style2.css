@@ -1,0 +1,30 @@
+body {
+    /*خلفية لون*/
+    /* background-color: blueviolet; */
+    
+    background-image: url('game\ of\ thrones.jpg');
+
+    /*تكرار الخلفية*/
+    /* background-repeat: repeat; */
+    /*عدم تكرار الخلفية*/
+    /* background-repeat: no-repeat; */
+    /*تكرار افقي*/
+    /* background-repeat: repeat-x; */
+    /*تكرار عمودي*/
+    /* background-repeat: repeat-y; */
+    /* مسافة بين الصور */
+    /* background-repeat: space; */
+
+    background-size:100%;
+    
+
+}
+h1{
+    color: antiquewhite;
+}
+p {
+    /*خلفية للبلووك كامل*/
+    background-color: bisque;
+    /*للمحتوى وليس للبلوك*/
+    display: inline;
+}
